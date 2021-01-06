@@ -1,0 +1,4 @@
+name: ovomc-CustomCraftings
+version: ${project.version}
+main: ga.wiktor330.dev.ovomc.Main
+api-version: 1.16
